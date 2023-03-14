@@ -9,4 +9,4 @@ This page is to show the simulation of when peking southern station got a fire h
 ## Tech stack
 **Anylogic** to build the model.  
 **Java** to write algorithm.  
-**Javascript** to show the this page.  
+**Javascript** to show this page.  
